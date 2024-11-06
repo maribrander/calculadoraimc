@@ -53,10 +53,6 @@ class MainActivity : AppCompatActivity() {
 
                 println("roque resultado" + resultado)
 
-                // cores
-                // edit text bg + icone
-                // gradiente + titulo + icone + descricao
-
 
             }
         }
